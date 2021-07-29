@@ -1,4 +1,4 @@
-<h3 align="center">Hello, I'm Jeremiah.</h3>
+<h2 align="center">Hello, I'm Jeremiah.</h2>
 
 <p align="center">I'm a software engineer <strong><a href="https://github.com/octoenergy/">@octoenergy</a></strong>, and software engineering consultant <strong><a href="https://github.com/ractf/">@ractf</a></strong>.</p>
 
